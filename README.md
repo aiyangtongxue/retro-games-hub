@@ -50,6 +50,11 @@ cd retro-games-hub
 - 直接打开 `index.html`
 - 或使用本地服务器运行
 
+- 4.图片
+- <p align="center">
+  <img src="tcs.png" alt="项目结构" width="300">
+</p>
+
 ## 🎮 游戏控制
 
 ### 键盘控制
