@@ -52,7 +52,7 @@ cd retro-games-hub
 
 - 4.图片
 - <p align="center">
-  <img src="tcs.png" alt="项目结构" width="300">
+  <img src="tcs.png" alt="项目结构" width="500">
 </p>
 
 ## 🎮 游戏控制
